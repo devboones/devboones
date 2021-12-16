@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gianfranco
 - 👀 I’m interested in build modern, resilient, and inclusive Web user interfaces
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Web3
 - 📫 How to reach me: @devboones on twitter
 
 <!---
